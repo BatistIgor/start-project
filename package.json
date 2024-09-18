@@ -19,9 +19,11 @@
     "gulp-imagemin": "^9.1.0",
     "gulp-newer": "^1.4.0",
     "gulp-sass": "^5.1.0",
+    "gulp-svg-sprite": "^2.0.3",
+    "gulp-ttf2woff": "^2.0.0",
+    "gulp-ttf2woff2": "^5.0.0",
     "gulp-uglify-es": "^3.0.0",
     "gulp-webp": "^5.0.0",
-    "sass": "^1.77.8",
-    "swiper": "^11.1.12"
+    "sass": "^1.77.8"
   }
 }
